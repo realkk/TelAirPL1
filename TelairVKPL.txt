@@ -222,3 +222,99 @@ https://delta.flexlivetv.com/SkySports4/index.m3u8?default
 https://delta.flexlivetv.com/SkySports5/index.m3u8?default 
 #EXTINF:0, group-title="Sports",SkySportsF1
 https://delta.flexlivetv.com/SkySportsF1/index.m3u8?default
+#EXTINF:0 tvg-id="ext" group-title="Tamil",ISAIARUVI
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",KALINGAR TV
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w270038425.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",CHITHIRAM TV
+http://367449830.r.cdnsun.net/367449830/_definst_/chithiramtv/index.m3u8
+#EXTINF:0 tvg-id="SunTv.in" group-title="Tamil",Sun TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_TV/Sun_TV_1200.m3u8
+#EXTINF:0 tvg-id="StarVijay.in" group-title="Tamil",Star Vijay
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Star_Vijay/Star_Vijay_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthu Yugam
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Puthu_Yugam/Puthu_Yugam_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Malai Murasu
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Malai_Murasu/Malai_Murasu_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Thanthi TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Thanthi_TV/Thanthi_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Madhimugam TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Madhimugam_TV/Madhimugam_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK Music
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/MK_Music/MK_Music_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/MK_News/MK_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MK TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/MK_TV/MK_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vendhar TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Vendhar_TV/Vendhar_TV_1200.m3u8
+#EXTINF:0 tvg-id="KtvHD.in" group-title="Tamil",KTV HD
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/KTV_HD/KTV_HD_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun Music HD
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Music_HD/Sun_Music_HD_1200.m3u8
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Tamil",Sun TV HD
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_TV_HD/Sun_TV_HD_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Lotus News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Lotus_News/Lotus_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Cauvery News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Cauvery_News/Cauvery_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Win TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Win_TV/Win_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vaanavil
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Vaanavil/Vaanavil_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Peppers TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Peppers_TV/Peppers_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Zee Tamil
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Zee_Tamil/Zee_Tamil_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Polimer News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Polimer_News/Polimer_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Raj News 24x7
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Raj_News_24x7/Raj_News_24x7_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Captain News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Captain_News/Captain_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sathiyam
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sathiyam/Sathiyam_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",News7 Tamil
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/News7_Tamil/News7_Tamil_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun News
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_News/Sun_News_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Puthiya Thalimurai
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Puthiya_Thalimurai/Puthiya_Thalimurai_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sun Life
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Life/Sun_Life_1200.m3u8
+#EXTINF:0 tvg-id="RajDigitalPlus.in" group-title="Tamil",Raj Digital Plus
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Digital_Plus/Raj_Digital_Plus_1200.m3u8
+#EXTINF:0 tvg-id="PolimerTv.in" group-title="Tamil",Polimer TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Polimer_TV/Polimer_TV_1200.m3u8
+#EXTINF:0 tvg-id="RajTv.in" group-title="Tamil",Raj TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Raj_TV/Raj_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Makkal Tv
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Makkal_TV/Makkal_TV_1200.m3u8
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Tamil",Adithya TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Adithya_TV/Adithya_TV_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Captain tv
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Captain_tv/Captain_tv_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",DD5 Podhigai
+http://live.wmncdn.net/ddpodigailive2/live2.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Vasanth TV
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Vasanth_TV/Vasanth_TV_1200.m3u8
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Tamil",Sun Music
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sun_Music/Sun_Music_1200.m3u8
+#EXTINF:0 tvg-id="RajMusix.in" group-title="Tamil",Raj Musix
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Raj_Musix/Raj_Musix_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Sahana Music
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Sahana_Music/Sahana_Music_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Tunes 6
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Tunes_6/Tunes_6_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",News 18 Tamilnadu
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/News_18_Tamilnadu/News_18_Tamilnadu_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",Travel XP Tamil
+http://tv6.yuphdtv.net/tRXnDiJPF3RO4DR/Travel_XP_Tamil/Travel_XP_Tamil_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",MADHA TV
+http://primarymadhatvcloud.purplestream.in/madhatv/madhatv3-live.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",VENDHARM TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",DHEERAN TAMIL
+http://edgecastdheerantv.purplestream.in/dheeranorg/ngrp:dheeran_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Tamil",SANA TV
+http://209.58.160.22/Sanatvhls/live.m3u8
