@@ -210,3 +210,15 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
 #EXTINF:0, group-title="English",Travel XP
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:0, group-title="Sports",SkySports1
+https://delta.flexlivetv.com/SkySports1/index.m3u8?default 
+#EXTINF:0, group-title="Sports",SkySports2
+https://delta.flexlivetv.com/SkySports2/index.m3u8?default 
+#EXTINF:0, group-title="Sports",SkySports3
+https://delta.flexlivetv.com/SkySports3/index.m3u8?default 
+#EXTINF:0, group-title="Sports",SkySports4
+https://delta.flexlivetv.com/SkySports4/index.m3u8?default 
+#EXTINF:0, group-title="Sports",SkySports5
+https://delta.flexlivetv.com/SkySports5/index.m3u8?default 
+#EXTINF:0, group-title="Sports",SkySportsF1
+https://delta.flexlivetv.com/SkySportsF1/index.m3u8?default
