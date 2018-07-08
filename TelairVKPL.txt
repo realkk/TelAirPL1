@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, group-title="Tamil", Isai Aruvi
 http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
 #EXTINF:0, group-title="Tamil", Isai Aruvi-2
