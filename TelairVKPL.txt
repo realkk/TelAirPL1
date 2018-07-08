@@ -30,9 +30,9 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/1.m3u8
 #EXTINF:0, group-title="Tamil",Jaya TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/01.m3u8
-#EXTINF:0, group-title="Tamil",Kalingar
+#EXTINF:0, group-title="Tamil",Kalaingar
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/01.m3u8
-#EXTINF:0, group-title="Tamil",Kalingar News
+#EXTINF:0, group-title="Tamil",Kalaingar News
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:0, group-title="Tamil",KTV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226121/index.m3u8
